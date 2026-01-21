@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "My Data Stories",
     "section": "",
-    "text": "A test post\n\n\n\nvisualization\n\ndata stories\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
+    "text": "A test post\n\n\n\nvisualization\n\ndata stories\n\ntesting\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/000_test_post/index.html",
@@ -25,6 +25,6 @@
     "href": "posts/000_test_post/index.html#stories-from-data",
     "title": "A test post",
     "section": "Stories from data",
-    "text": "Stories from data\n\nLet’s set up some data\n\n\nx = ['A', 'B', 'C']\ny = [1, 5, 3]\n\n\nNow let’s visualize it\n\nplt.bar(x, y)\nplt.show()"
+    "text": "Stories from data\n\nLet’s set up some data\n\n\nx = ['A', 'B', 'C']\ny = [1, 5, 3]\n\n\nNow let’s visualize it\n\nplt.bar(x, y)\nplt.show()\n\n\n\n\n\n\n\n\n\nmean_y = sum(y)/len(y)\nprint(f'Average is { mean_y} ')\n\nAverage is 3.0"
   }
 ]
