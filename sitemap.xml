@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mdbodonnell.github.io/comm3180_S26_Blog/about.html</loc>
-    <lastmod>2026-01-21T16:45:24.711Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdbodonnell.github.io/comm3180_S26_Blog/index.html</loc>
-    <lastmod>2026-01-21T16:45:24.711Z</lastmod>
+    <lastmod>2026-01-28T15:36:19.645Z</lastmod>
   </url>
   <url>
     <loc>https://mdbodonnell.github.io/comm3180_S26_Blog/posts/000_test_post/index.html</loc>
-    <lastmod>2026-01-21T16:45:24.711Z</lastmod>
+    <lastmod>2026-01-28T15:36:19.646Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdbodonnell.github.io/comm3180_S26_Blog/index.html</loc>
+    <lastmod>2026-01-28T15:36:19.645Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdbodonnell.github.io/comm3180_S26_Blog/posts/001_DOW1_Weather/DOW1.html</loc>
+    <lastmod>2026-01-28T15:36:19.646Z</lastmod>
   </url>
 </urlset>

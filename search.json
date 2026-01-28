@@ -7,13 +7,6 @@
     "text": "About this blog"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Data Stories",
-    "section": "",
-    "text": "A test post\n\n\n\nvisualization\n\ndata stories\n\ntesting\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/000_test_post/index.html",
     "href": "posts/000_test_post/index.html",
     "title": "A test post",
@@ -26,5 +19,19 @@
     "title": "A test post",
     "section": "Stories from data",
     "text": "Stories from data\n\nLet’s set up some data\n\n\nx = ['A', 'B', 'C']\ny = [1, 5, 3]\n\n\nNow let’s visualize it\n\nplt.bar(x, y)\nplt.show()\n\n\n\n\n\n\n\n\n\nmean_y = sum(y)/len(y)\nprint(f'Average is { mean_y} ')\n\nAverage is 3.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Data Stories",
+    "section": "",
+    "text": "Dataset of the Week #1: The Weather in Philadelphia\n\n\n\nDOW\n\nweather\n\n\n\n\n\n\n\n\n\nMatt\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\nvisualization\n\ndata stories\n\ntesting\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/001_DOW1_Weather/DOW1.html",
+    "href": "posts/001_DOW1_Weather/DOW1.html",
+    "title": "Dataset of the Week #1: The Weather in Philadelphia",
+    "section": "",
+    "text": "My post\n\nprint('This is some code')\n\nThis is some code"
   }
 ]
