@@ -25,13 +25,13 @@
     "href": "index.html",
     "title": "My Data Stories",
     "section": "",
-    "text": "My post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\nvisualization\n\ndata stories\n\ntesting\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
+    "text": "Dataset of the Week #1: The Weather in Philadelphia\n\n\n\nDOW\n\nweather\n\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\nMatt\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\nvisualization\n\ndata stories\n\ntesting\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/001_DOW1_Weather/DOW1.html",
     "href": "posts/001_DOW1_Weather/DOW1.html",
-    "title": "My post",
+    "title": "Dataset of the Week #1: The Weather in Philadelphia",
     "section": "",
-    "text": "title: “Dataset of the Week #1: The Weather in Philadelphia author: Matt date: 1/28/2026 categories: - DOW - weather\n\nprint('This is some code')\n\nThis is some code"
+    "text": "My post\n\n\nprint('This is some code')\n\nThis is some code\n\n\n\nThe next section\n\nAnd another"
   }
 ]
