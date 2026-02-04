@@ -32,6 +32,6 @@
     "href": "posts/001_DOW1_Weather/DOW1.html",
     "title": "Dataset of the Week #1: The Weather in Philadelphia",
     "section": "",
-    "text": "My post\n\n\nprint('This is some code')\n\nThis is some code\n\n\n\nThe next section\n\nAnd another"
+    "text": "Did the groundhog get it right in Philly?\n\n\nimport pandas as pd\n\n\nweather_df = pd.read_csv('data/philadelphia_weather_2005_to_2025.csv')\n\n\n\nWhat was the weather in Philly GH day from 2005 to 2025?\n\nGood question!!!!\n\n\nweather_df.query('day==\"February 2\"')[['year','low','high']]\n\n\n\n\n\n\n\n\nyear\nlow\nhigh\n\n\n\n\n32\n2005\n16\n41\n\n\n397\n2006\n31\n55\n\n\n762\n2007\n30\n40\n\n\n1127\n2008\n31\n44\n\n\n1493\n2009\n30\n54\n\n\n1858\n2010\n22\n36\n\n\n2223\n2011\n30\n42\n\n\n2588\n2012\n39\n51\n\n\n2954\n2013\n18\n30\n\n\n3319\n2014\n29\n53\n\n\n3684\n2015\n23\n41\n\n\n4049\n2016\n34\n53\n\n\n4415\n2017\n34\n48\n\n\n4780\n2018\n20\n40\n\n\n5145\n2019\n11\n31\n\n\n5510\n2020\n34\n43\n\n\n5876\n2021\n30\n36\n\n\n6241\n2022\n25\n46\n\n\n6606\n2023\n28\n41\n\n\n6971\n2024\n40\n46\n\n\n7337\n2025\n19\n38"
   }
 ]
